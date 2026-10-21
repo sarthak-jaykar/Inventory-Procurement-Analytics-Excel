@@ -55,13 +55,20 @@ The workbook uses formula-driven summary tables rather than native PivotTables a
 
 ## Repository structure
 ```text
-Inventory-Procurement-Analytics/
+Inventory-Procurement-Analytics-Excel/
 ├── Dataset/
 │   └── Inventory_Procurement_Raw_Dataset.xlsx
 ├── Excel Workbook/
-│   └── Inventory_Procurement_Dashboard_Perfected.xlsx
-├── README.md
-└── Business_Requirements_and_KPI_Definitions.md
+│   └── Inventory_Procurement_Analytics_Dashboard.xlsx
+├── Screenshots/
+│   ├── 01-executive-dashboard.png
+│   ├── 02-supplier-performance.png
+│   ├── 03-cleaned-procurement-data.png
+│   ├── 04-inventory-analysis.png
+│   ├── 05-kpi-definitions.png
+│   └── Business_Requirements_and_KPI_Definitions.md
+└── README.md
+ 
 ```
 
 ## Limitations
